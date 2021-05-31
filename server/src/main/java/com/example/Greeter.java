@@ -1,13 +1,10 @@
-/* ceci est le @package. */
+/** {@inheritDoc} */
 package com.example;
 
 public class Greeter {
-/** ceci est la class greeter. */
+/** {@inheritDoc} */
   public Greeter() {
-/** 
-* @method la methode greeter
-* ceci est un constructeur. 
-*/
+/** {@inheritDoc} */
   }
   public final String greet(final String someone) {
     /** ceci est la methode greet.
