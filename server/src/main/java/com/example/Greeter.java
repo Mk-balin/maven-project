@@ -1,14 +1,14 @@
 package com.example;
 
-/**
-* @param  someone  c'est un objet "qui donne une personne"
-* @return String Hello babaca avec l'objet someone
-*/
 public class Greeter {
 
   
   public Greeter() {
 
+/** {@inheritDoc} */
+public int checkReturnTag(final int aTagIndex,
+                          JavadocTag[] aTags,
+                          int aLineNo)
   }
 
   public final String greet(final String someone) {
