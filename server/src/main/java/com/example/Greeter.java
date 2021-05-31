@@ -1,10 +1,10 @@
-/** {@inheritDoc} */
+/** {@inheritDoc}. */
 package com.example;
 
 public class Greeter {
-/** {@inheritDoc} */
+/** {@inheritDoc}. */
   public Greeter() {
-/** {@inheritDoc} */
+/** {@inheritDoc}. */
   }
   public final String greet(final String someone) {
     /** ceci est la methode greet.
