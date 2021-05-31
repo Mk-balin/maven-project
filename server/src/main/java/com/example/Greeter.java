@@ -1,16 +1,22 @@
-/** @see le package com.example. */
 package com.example;
 
+/**
+ * Ceci est ma class return.
+ */
 public class Greeter {
-/** {@inheritDoc}. */
-  public Greeter() {
-/** {@inheritDoc}. */
+
+/** 
+ * Ceci est mon constructeur.
+ */
+ public Greeter() {
+
   }
+  
+/**
+ * @param someone nom de la personne
+ * @return bonjour en String
+ */
   public final String greet(final String someone) {
-    /** ceci est la methode greet.
-    * @param someone c'est le nom de la personne
-    * @return c'est la phrase de retour
-    */
     return String.format("Hello babacar, %s!", someone);
   }
 }
