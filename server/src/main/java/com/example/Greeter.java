@@ -4,7 +4,10 @@ package com.example;
 public class Greeter {
 /** ceci est la class greeter. */
   public Greeter() {
-/** ceci est un constructeur. */
+/** 
+* @method la methode greeter
+* ceci est un constructeur. 
+*/
   }
   public final String greet(final String someone) {
     /** ceci est la methode greet.
