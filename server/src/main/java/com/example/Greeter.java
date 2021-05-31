@@ -1,3 +1,4 @@
+/* ceci est le @package */
 package com.example;
 
 public class Greeter {
