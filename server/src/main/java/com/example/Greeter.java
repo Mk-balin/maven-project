@@ -1,4 +1,4 @@
-/** @package le package com.example. */
+/** @see le package com.example. */
 package com.example;
 
 public class Greeter {
