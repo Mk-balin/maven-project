@@ -3,12 +3,12 @@
     display: flex;
     flex-flow: column;
     padding: 5px;
-    max-width: 220px;
+    max-width: 440px;
     margin: auto;">
 
     <img style="
-    max-width: 220px;
-    max-height: 150px;" src="https://www.courrierinternational.com/sites/ci_master/files/styles/image_original_1280/public/assets/images/pexels-andre-furtado-2916828.jpg?itok=j38WCQ1i"
+    max-width: 440px;
+    max-height: 300px;" src="https://www.courrierinternational.com/sites/ci_master/files/styles/image_original_1280/public/assets/images/pexels-andre-furtado-2916828.jpg?itok=j38WCQ1i"
          alt="Canada pictures">
     <figcaption style="
     background-color: #222;
