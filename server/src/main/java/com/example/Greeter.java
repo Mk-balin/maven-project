@@ -1,21 +1,20 @@
 package com.example;
-
 /**
- * Ceci est ma class return.
+ * My <b>Greeter</b>.
+ * Fonctionnalités pour les salutations
  */
 public class Greeter {
-
-/** 
- * Ceci est mon constructeur.
- */
- public Greeter() {
-
+  /**
+  * My <b>constructor</b>.
+  * default constructor
+  */
+  public Greeter() {
   }
-  
-/**
- * @param someone nom de la personne
- * @return bonjour en String
- */
+  /**
+  * * My <b>method greet</b>.
+  * @param someone String
+  * @return String
+  */
   public final String greet(final String someone) {
     return String.format("Hello babacar, %s!", someone);
   }
